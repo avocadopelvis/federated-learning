@@ -1,2 +1,2 @@
-# BTP
-Federated Learning for Multi-Institutional Medical Image Segmentation.
+# B.Tech Project
+## Federated Learning for Multi-Institutional Medical Image Segmentation.
