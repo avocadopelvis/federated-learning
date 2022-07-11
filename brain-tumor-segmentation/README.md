@@ -1,7 +1,7 @@
 # BRAIN TUMOR SEGMENTATION
 
 ## DATASET
-BraTS 2020:
+BraTS 2020: <br>
 https://www.kaggle.com/datasets/awsaf49/brats20-dataset-training-validation
 
 The sub-regions of tumor considered for evaluation are: 
