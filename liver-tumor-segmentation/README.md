@@ -4,7 +4,10 @@
 https://www.kaggle.com/datasets/andrewmvd/liver-tumor-segmentation
 
 ### Institutions Involved
-- National Library of Medicine
-- National Institutes of Health, Bethesda, MD, USA
-- Shenzhen No.3 People’s Hospital
-- Guangdong Medical College, Shenzhen, China
+- Technical University of Munich
+- Ludwig Maxmilian University of Munich
+- Radboud University Medical Center
+- Polytechnique Montréal & CHUM Research Center
+- Tel Aviv University & Sheba Medical Center
+- IRCAD
+- The Hebrew University of Jerusalem & Hadassah University Medical Center
