@@ -7,6 +7,17 @@
 BraTS 2020: <br>
 https://www.kaggle.com/datasets/awsaf49/brats20-dataset-training-validation
 
+### Institutions Involved
+- Cancer Imaging Program, NCI, National Institutes of Health (NIH), USA
+- Center for Biomedical Image Computing and Analytics (CBICA), SBIA, UPenn, PA, USA
+- University of Alabama at Birmingham, AL, USA
+- University of Bern, Switzerland
+- University of Debrecen, Hungary
+- MD Anderson Cancer Center, TX, USA
+- Washington University School of Medicine in St. Louis, MO, USA
+- Heidelberg University, Germany
+- Tata Memorial Centre, Mumbai, India
+
 The sub-regions of tumor considered for evaluation are: 
 1) The "enhancing tumor" (ET) 
 2) The "tumor core" (TC)
