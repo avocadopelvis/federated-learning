@@ -4,8 +4,7 @@
 
 
 ## DATASET
-BraTS 2020: <br>
-https://www.kaggle.com/datasets/awsaf49/brats20-dataset-training-validation
+[BraTS 2020](https://www.kaggle.com/datasets/awsaf49/brats20-dataset-training-validation)
 
 ### Institutions Involved
 - Cancer Imaging Program, NCI, National Institutes of Health (NIH), USA
