@@ -8,3 +8,4 @@ https://www.kaggle.com/datasets/nikhilpandey360/chest-xray-masks-and-labels
 - National Institutes of Health, Bethesda, MD, USA
 - Shenzhen No.3 People’s Hospital
 - Guangdong Medical College, Shenzhen, China
+- Department of Health and Human Services of Montgomery County, MD, USA.
