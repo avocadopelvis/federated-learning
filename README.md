@@ -11,3 +11,8 @@ In Federated Learning, each client trains its own model using local data, and on
 
 ## Federated Learning Architecture
 ![delete](https://user-images.githubusercontent.com/92647313/178327276-dc3e960b-089a-4e95-9a3c-140d1f0a3ef8.png)
+
+## MODELS
+- U-net [Ronneberger et al. (2015)](https://arxiv.org/abs/1505.04597)
+- U-net++ [Zhou et al. (2018)](https://arxiv.org/abs/1807.10165)
+- Attention U-net [Oktay et al. (2018)](https://arxiv.org/abs/1804.03999)
