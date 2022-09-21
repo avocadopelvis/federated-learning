@@ -24,11 +24,6 @@ The sub-regions of tumor considered for evaluation are:
 
 The provided segmentation labels have values of 1 for NCR & NET, 2 for ED, 4 for ET, and 0 for everything else.
 
-## MODELS
-- U-net [Ronneberger et al. (2015)](https://arxiv.org/abs/1505.04597)
-- U-net++ [Zhou et al. (2018)](https://arxiv.org/abs/1807.10165)
-- Attention U-net [Oktay et al. (2018)](https://arxiv.org/abs/1804.03999)
-
 ## TO DO
 - [ ] Fix weight scaling
 
