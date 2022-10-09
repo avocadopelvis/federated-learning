@@ -7,7 +7,7 @@ Traditionally, Artificial Intelligence techniques require centralized data colle
 
 In Federated Learning, each client trains its own model using local data, and only the model updates are sent to the central server. The server accumulates and aggregates the individual updates to yield a global model and then sends the new shared parameters to the clients for further training. In this way, the training data remains private to each client and is never shared during the learning process. Only the model’s updates are shared, thus keeping patient data private and enabling multi-institutional collaboration.
 
-[Read More](https://github.com/avocadopelvis/BTP/blob/main/problem-statement/problem-statement.pdf)
+[Read More](https://github.com/avocadopelvis/BTP/blob/main/report/BTP-REPORT.pdf)
 
 ## Federated Learning Architecture
 ![delete](https://user-images.githubusercontent.com/92647313/178327276-dc3e960b-089a-4e95-9a3c-140d1f0a3ef8.png)
