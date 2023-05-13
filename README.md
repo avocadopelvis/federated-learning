@@ -1,4 +1,4 @@
-# B.Tech Project
+# Bachelor's Thesis
 ## Federated Learning for Multi-Institutional Medical Image Segmentation.
 
 Deep Learning has been widely used for medical image segmentation and a large number of papers have been presented recording the success of Deep Learning in this field. The performance of Deep Learning models strongly relies on the amount and diversity of data used for training. In the Medical Imaging field, acquiring large and diverse datasets is a significant challenge. Unlike photography images, labeling medical images require expert knowledge. Ideally, collaboration between institutions could address this challenge but sharing medical data to a centralized location faces various legal, privacy, technical, and data-ownership challenges. This is a significant barrier in pursuing scientific collaboration across transnational medical research institutions.
