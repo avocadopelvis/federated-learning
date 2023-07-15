@@ -1,4 +1,4 @@
-# Bachelor's Thesis
+# Bachelor Thesis
 ## Federated Learning for Multi-Institutional Medical Image Segmentation.
 
 Deep Learning has been widely used for medical image segmentation and a large number of papers have been presented recording the success of Deep Learning in this field. The performance of Deep Learning models strongly relies on the amount and diversity of data used for training. In the Medical Imaging field, acquiring large and diverse datasets is a significant challenge. Unlike photography images, labeling medical images require expert knowledge. Ideally, collaboration between institutions could address this challenge but sharing medical data to a centralized location faces various legal, privacy, technical, and data-ownership challenges. This is a significant barrier in pursuing scientific collaboration across transnational medical research institutions.
@@ -7,7 +7,7 @@ Traditionally, Artificial Intelligence techniques require centralized data colle
 
 In Federated Learning, each client trains its own model using local data, and only the model updates are sent to the central server. The server accumulates and aggregates the individual updates to yield a global model and then sends the new shared parameters to the clients for further training. In this way, the training data remains private to each client and is never shared during the learning process. Only the model’s updates are shared, thus keeping patient data private and enabling multi-institutional collaboration.
 
-[Read More](https://github.com/avocadopelvis/BTP/blob/main/paper.pdf)
+[Read More](https://github.com/avocadopelvis/federated-learning/blob/main/paper.pdf)
 
 ## Federated Learning Architecture
 ![delete](https://user-images.githubusercontent.com/92647313/178327276-dc3e960b-089a-4e95-9a3c-140d1f0a3ef8.png)
@@ -16,3 +16,24 @@ In Federated Learning, each client trains its own model using local data, and on
 - U-net [Ronneberger et al. (2015)](https://arxiv.org/abs/1505.04597)
 - U-net++ [Zhou et al. (2018)](https://arxiv.org/abs/1807.10165)
 - Attention U-net [Oktay et al. (2018)](https://arxiv.org/abs/1804.03999)
+
+## DATASET
+[BraTS 2020](https://www.kaggle.com/datasets/awsaf49/brats20-dataset-training-validation)
+
+### Institutions Involved
+- Cancer Imaging Program, NCI, National Institutes of Health (NIH), USA
+- Center for Biomedical Image Computing and Analytics (CBICA), SBIA, UPenn, PA, USA
+- University of Alabama at Birmingham, AL, USA
+- University of Bern, Switzerland
+- University of Debrecen, Hungary
+- MD Anderson Cancer Center, TX, USA
+- Washington University School of Medicine in St. Louis, MO, USA
+- Heidelberg University, Germany
+- Tata Memorial Centre, Mumbai, India
+
+The sub-regions of tumor considered for evaluation are: 
+1) The "enhancing tumor" (ET) 
+2) The "tumor core" (TC)
+3) The "whole tumor" (WT) 
+
+The provided segmentation labels have values of 1 for NCR & NET, 2 for ED, 4 for ET, and 0 for everything else.
