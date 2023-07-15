@@ -127,3 +127,7 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+brain-tumor-segmentation/
+liver-tumor-segmentation/
+lung-segmentation/
